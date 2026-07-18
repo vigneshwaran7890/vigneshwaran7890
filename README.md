@@ -403,7 +403,7 @@ If something here helped — star a repo, follow along, or reach out about agent
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F2937,100:F97316&height=100&section=footer&text=good%20code%20%26%20good%20agents.&fontSize=18&fontColor=E6EDF3&animation=fadeIn" alt="Footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E1B4B,100:4338CA&height=100&section=footer&text=good%20code%20and%20good%20agents&fontSize=18&fontColor=E6EDF3&animation=fadeIn" alt="" width="100%" />
 
 <br />
 
