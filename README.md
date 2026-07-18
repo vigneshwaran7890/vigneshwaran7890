@@ -6,9 +6,6 @@
 ╚══════════════════════════════════════════════════════════════════╝
 -->
 
-<div align="center">
-  <img src="./profile.png" width="150" height="150" style="border-radius:50%;" alt="Vigneshwaran A" />
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Vigneshwaran+A+%F0%9F%91%8B;Full+Stack+Developer;Agentic+AI+Solutions+Engineer;Building+Autonomous+LLM+Agents;Open+to+Relocation+Worldwide" alt="Typing SVG" />
@@ -47,7 +44,6 @@
 <img src="https://img.shields.io/badge/Experience-2%2B%20Years-0D1117?style=flat-square&logo=clockify&logoColor=3FB950&labelColor=161B22" alt="Experience" />
 <img src="https://img.shields.io/badge/Education-MCA-0D1117?style=flat-square&logo=google-scholar&logoColor=58A6FF&labelColor=161B22" alt="Education" />
 <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%C2%B7%20Full%20Stack-0D1117?style=flat-square&logo=langchain&logoColor=1C3C3C&labelColor=161B22" alt="Focus" />
-<img src="https://img.shields.io/badge/Open%20to-Relocate%20Worldwide-0D1117?style=flat-square&logo=airplane&logoColor=F78166&labelColor=161B22" alt="Relocation" />
 
 </div>
 
@@ -55,41 +51,33 @@
 
 ## <div align="center">👨‍💻 About Me</div>
 
-<div align="center">
+<table>
+<tr>
+<td width="60%" valign="top">
 
-```bash
-vignesh@github:~$ whoami
-Vigneshwaran A — Full Stack Developer | Agentic AI Solutions Engineer
+Full Stack Developer with **2+ years** of experience delivering scalable SaaS platforms, CRM systems, and agentic AI-driven web applications for enterprise clients.
 
-vignesh@github:~$ cat about.md
-┌─────────────────────────────────────────────────────────────────┐
-│  Full Stack Developer with 2+ years of experience delivering    │
-│  scalable SaaS platforms, CRM systems, and agentic AI-driven    │
-│  web applications for enterprise clients.                       │
-│                                                                   │
-│  Proven track record designing autonomous LLM agents using      │
-│  LangChain & LangGraph that query live production databases     │
-│  in real time — reasoning over data and generating context-     │
-│  aware responses across CRM, HRMS, hiring & EdTech platforms.   │
-│                                                                   │
-│  Skilled in React.js & Node.js for production-grade full-stack  │
-│  apps, with hands-on expertise in multi-agent orchestration,    │
-│  tool-calling workflows, and RAG-based systems (OpenAI/Gemini). │
-│                                                                   │
-│  🎓 MCA · SNS College of Technology (2024)                      │
-│  📍 Coimbatore, Tamil Nadu, India                                │
-│  📞 +91 82705 16312                                              │
-│  🌐 https://portfolio-vignesh-xi.vercel.app                     │
-│  🔗 https://www.linkedin.com/in/vigneshwaran-andisamy            │
-│  ✉️  vigneshwaran7890@gmail.com                                  │
-└─────────────────────────────────────────────────────────────────┘
+Proven track record designing **autonomous LLM agents** using LangChain & LangGraph that query live production databases in real time — reasoning over data and generating context-aware responses across CRM, HRMS, hiring & EdTech platforms.
 
-vignesh@github:~$ echo $INTERESTS
-Agentic AI Systems • Multi-Agent Orchestration • RAG Pipelines
-LLM Orchestration • SaaS Products • Open Source
-```
+Skilled in **React.js & Node.js** for production-grade full-stack apps, with hands-on expertise in multi-agent orchestration, tool-calling workflows, and RAG-based systems using OpenAI & Gemini.
 
-</div>
+**Interests:** Agentic AI Systems · Multi-Agent Orchestration · RAG Pipelines · LLM Orchestration · SaaS Products · Open Source
+
+</td>
+<td width="40%" valign="top">
+
+| | |
+|:---|:---|
+| 🎓 **Education** | MCA, SNS College of Technology |
+| 📍 **Location** | Coimbatore, Tamil Nadu, India |
+| 📞 **Phone** | +91 82705 16312 |
+| 🌐 **Portfolio** | [portfolio-vignesh-xi.vercel.app](https://portfolio-vignesh-xi.vercel.app/) |
+| 🔗 **LinkedIn** | [vigneshwaran-andisamy](https://www.linkedin.com/in/vigneshwaran-andisamy/) |
+| ✉️ **Email** | [vigneshwaran7890@gmail.com](mailto:vigneshwaran7890@gmail.com) |
+
+</td>
+</tr>
+</table>
 
 ---
 
