@@ -5,11 +5,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=220&section=header&text=Vigneshwaran%20A&fontSize=48&fontColor=E6EDF3&desc=Full%20Stack%20Developer%20%C2%B7%20Agentic%20AI%20Solutions%20Engineer&descAlignY=62&descSize=15&animation=twinkling&color=0:0D1117,100:1F2937,200:F97316" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&theme=gradient&text=Vigneshwaran%20A&fontSize=50&fontColor=E6EDF3&stroke=F97316&desc=Agentic%20AI%20Solutions%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=56&descSize=16&animation=fadeIn&color=0:0D1117,50:1F2937,100:7C2D12,100:F97316" alt="Header" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=780&lines=Building+agents+that+query+live+data;Shipping+multi-tenant+SaaS+%26+CRM+platforms;LangChain+%C2%B7+LangGraph+%C2%B7+React+%C2%B7+Node;Open+to+relocation+%E2%80%94+worldwide" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=800&color=F97316&center=true&vCenter=true&width=820&lines=Autonomous+LLM+agents+on+live+production+data;Multi-agent+orchestration+%C2%B7+tool-calling+%C2%B7+RAG;LangChain+%C2%B7+LangGraph+%C2%B7+OpenAI+%C2%B7+Gemini;Full-stack+delivery+for+CRM%2C+HRMS+%26+EdTech;Open+to+relocation+worldwide" alt="Typing intro" />
 
 <br /><br />
 
@@ -24,7 +24,7 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/vigneshwaran7890?style=flat-square&label=followers&color=238636&labelColor=161B22&logo=github" alt="Followers" />
 &nbsp;
-<img src="https://img.shields.io/badge/Coimbatore%2C%20India-161B22?style=flat-square&logo=googlemaps&logoColor=F97316" alt="Location" />
+<img src="https://img.shields.io/badge/Agentic%20AI-161B22?style=flat-square&logo=langchain&logoColor=F97316" alt="Focus" />
 &nbsp;
 <img src="https://img.shields.io/badge/2%2B%20yrs%20exp-161B22?style=flat-square&logo=clockify&logoColor=3FB950" alt="Experience" />
 &nbsp;
@@ -38,27 +38,30 @@
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="63%" valign="top">
 
-Full Stack Developer with **2+ years** shipping SaaS, CRM, and agentic AI products for enterprise teams.
+**Agentic AI Solutions Engineer** and Full Stack Developer with **2+ years** building production systems where LLM agents reason over **live operational data** — not canned responses.
 
-I design **autonomous LLM agents** with LangChain & LangGraph that pull from live production databases — reasoning over real CRM, HRMS, hiring, and EdTech data instead of static prompts.
+I architect **autonomous agent workflows** with **LangChain & LangGraph**: stateful multi-step reasoning, structured tool-calling, RAG retrieval, and real-time queries against CRM, HRMS, hiring, and EdTech databases. Agents I've shipped handle customer support over **WhatsApp Business API**, candidate screening at scale, and adaptive learning paths — all grounded in production context.
 
-Day-to-day: **React & Node** for product surfaces, multi-agent orchestration, tool-calling flows, and RAG pipelines on OpenAI & Gemini.
+On the product side, I own **React & Node.js** full-stack delivery: multi-tenant SaaS, RBAC, API design, and deployment across **AWS, Vercel & Hostinger**. Comfortable bridging agent logic, backend services, and interfaces users actually trust.
 
-**Currently into:** agent systems · multi-agent routing · RAG eval · multi-tenant architecture · open source tooling
+**Core domains:** multi-agent orchestration · agent evaluation · RAG pipelines · LLM tool integration · enterprise SaaS · open-source developer tooling
 
 </td>
-<td width="38%" valign="top">
+<td width="37%" valign="top">
 
-```
-education   MCA · SNS College of Technology
-phone       +91 82705 16312
-portfolio   portfolio-vignesh-xi.vercel.app
-linkedin    vigneshwaran-andisamy
-email       vigneshwaran7890@gmail.com
-location    Coimbatore, Tamil Nadu
-```
+| | |
+|:--|:--|
+| **Role** | Agentic AI Solutions Engineer |
+| **Focus** | LangChain · LangGraph · RAG |
+| **Stack** | React · Node · Python · FastAPI |
+| **Scale** | 10+ tenants · 4K+ candidates · 5K+ learners |
+| **Education** | MCA · SNS College of Technology |
+| **Portfolio** | [portfolio-vignesh-xi.vercel.app](https://portfolio-vignesh-xi.vercel.app/) |
+| **LinkedIn** | [vigneshwaran-andisamy](https://www.linkedin.com/in/vigneshwaran-andisamy/) |
+| **Email** | [vigneshwaran7890@gmail.com](mailto:vigneshwaran7890@gmail.com) |
+| **Phone** | [+91 82705 16312](tel:+918270516312) |
 
 </td>
 </tr>
@@ -70,14 +73,14 @@ location    Coimbatore, Tamil Nadu
 
 <table align="center">
 <tr>
-<td align="center"><b>Agentic AI</b><br/>LangChain · LangGraph · live DB reasoning</td>
-<td align="center"><b>Tool-calling</b><br/>Multi-agent flows · RAG · function APIs</td>
-<td align="center"><b>Backend</b><br/>Node · Express · Python · FastAPI</td>
+<td align="center"><b>Agent orchestration</b><br/>LangGraph state machines · multi-agent routing · live DB tool-calling</td>
+<td align="center"><b>RAG & reasoning</b><br/>Context retrieval · OpenAI & Gemini · structured agent outputs</td>
+<td align="center"><b>Agent interfaces</b><br/>WhatsApp Business API · CRM · HRMS · hiring & EdTech surfaces</td>
 </tr>
 <tr>
-<td align="center"><b>Cloud</b><br/>AWS · Vercel · Docker · GitHub Actions</td>
-<td align="center"><b>Products</b><br/>CRM · HRMS · PMS · WhatsApp agents</td>
-<td align="center"><b>2026 goals</b><br/>Scale orchestration · OSS · system design</td>
+<td align="center"><b>Backend for agents</b><br/>FastAPI tool endpoints · Node/Express · GraphQL & REST</td>
+<td align="center"><b>Production delivery</b><br/>Multi-tenant SaaS · RBAC · AWS · Vercel · CI/CD</td>
+<td align="center"><b>2026 focus</b><br/>Agent eval at scale · LangGraph depth · OSS contributions</td>
 </tr>
 </table>
 
@@ -110,6 +113,8 @@ location    Coimbatore, Tamil Nadu
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white&labelColor=161B22)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white&labelColor=161B22)
 ![RAG](https://img.shields.io/badge/RAG-6366F1?style=flat-square&logo=chainlink&logoColor=white&labelColor=161B22)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-10A37F?style=flat-square&logo=openai&logoColor=white&labelColor=161B22)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6366F1?style=flat-square&logo=octopusdeploy&logoColor=white&labelColor=161B22)
 
 <br /><br />
 
@@ -120,6 +125,7 @@ location    Coimbatore, Tamil Nadu
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=161B22)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=161B22)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=161B22)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=161B22)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=161B22)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white&labelColor=161B22)
 ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white&labelColor=161B22)
@@ -138,6 +144,8 @@ location    Coimbatore, Tamil Nadu
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white&labelColor=161B22)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=161B22)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=161B22)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=161B22)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=161B22)
 
 <br /><br />
 
@@ -151,6 +159,10 @@ location    Coimbatore, Tamil Nadu
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=161B22)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=161B22)
 ![Meta](https://img.shields.io/badge/Meta%20API-0081FB?style=flat-square&logo=meta&logoColor=white&labelColor=161B22)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=161B22)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=161B22)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=161B22)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=161B22)
 
 </td>
 </tr>
@@ -160,21 +172,21 @@ location    Coimbatore, Tamil Nadu
 
 ## ◉ experience
 
-| Company | Role | Period | Location |
-|:--------|:-----|:------:|:---------|
-| **SculpXTechLabs** | Software Associate | Dec 2025 – Present | Coimbatore |
-| **SNS Square** | Software Associate *(Promoted)* | Sep 2025 – Nov 2025 | Coimbatore |
-| **SNS Square** | Junior Software Associate | Aug 2024 – Sep 2025 | Coimbatore |
+| Company | Role | Period |
+|:--------|:-----|:------:|
+| **SculpXTechLabs** | Software Associate | Dec 2025 – Present |
+| **SNS Square** | Software Associate *(Promoted)* | Sep 2025 – Nov 2025 |
+| **SNS Square** | Junior Software Associate | Aug 2024 – Sep 2025 |
 
 <details>
 <summary><b>SculpXTechLabs — Software Associate</b></summary>
 <br />
 
-- **Tour Management CRM** — tour creation, itineraries, booking tracking for travel agencies
-- **Agentic support chatbot** — LangChain & LangGraph agent querying live CRM data via WhatsApp Business API
-- **Sculpx Accounts CRM** — 10+ tenants, 10,000+ leads/tenant, automated tracking & agent workflows
-- **HRMS & PMS modules** — onboarding, attendance, leave, task assignment across 10+ tenants
-- End-to-end deployment on **AWS & Hostinger** — infra, releases, RBAC for multi-tenant agent systems
+- Architected an **agentic customer support system** — LangChain & LangGraph agents with structured tool-calling over live CRM data, deployed via **WhatsApp Business API**
+- Building **Sculpx Accounts** — multi-tenant business suite (CRM, HRMS, PMS) for **10+ orgs**, **10,000+ leads/tenant**, payroll dashboards & agent-assisted workflows
+- Delivering **Tour Management CRM** — tour creation, itineraries, booking tracking, **Meta Business API** automation & personalized tour-plan chatbot
+- **HRMS & PMS modules** — onboarding, attendance, leave, task assignment & team collaboration with agent-ready backend APIs
+- Full-stack ownership: schema design, RBAC, multi-tenant architecture, and release management on **AWS & Hostinger**
 
 </details>
 
@@ -182,11 +194,11 @@ location    Coimbatore, Tamil Nadu
 <summary><b>SNS Square — Software Associate (Promoted)</b></summary>
 <br />
 
-- Promoted for agentic AI product delivery
-- **Hyre Drogan** — agentic hiring platform, 4,000+ candidates through automated screening & role matching
-- Multi-step screening agents with LangChain + OpenAI reasoning; reduced manual review time
-- **Python / FastAPI** microservices exposing ML insights as tool-callable agent endpoints
-- REST & GraphQL APIs, SSR/SSG, Vercel + GitHub Actions CI/CD
+- Promoted after **~13 months** for sustained delivery on agentic AI product lines
+- Led **Hyre Drogan** — autonomous screening agents processing **4,000+ candidates** via resume analysis, role matching & **real-time interview assistance**
+- Built multi-step LangChain workflows with OpenAI reasoning; reduced manual screening load significantly
+- Exposed ML-powered candidate insights through **Python/FastAPI microservices** as tool-callable endpoints in the agent layer
+- Shipped REST & GraphQL APIs with SSR/SSG; **Vercel deployment with GitHub Actions CI/CD**
 
 </details>
 
@@ -194,10 +206,11 @@ location    Coimbatore, Tamil Nadu
 <summary><b>SNS Square — Junior Software Associate</b></summary>
 <br />
 
-- **MiLai** — AI learning platform for 5,000+ active learners with adaptive agent workflows
-- Gemini & OpenAI orchestration for dynamic paths and interview prep (Prep Accelerator)
-- Subscription payments, user microservices, progress tracking
-- REST & GraphQL APIs deployed on Vercel with GitHub CI/CD
+- Built **MiLai** — AI learning platform with **5,000+ active learners**, powered by agentic workflows for adaptive content delivery
+- Orchestrated **Gemini & OpenAI** pipelines for dynamic learning paths and a Prep Accelerator module for interview readiness
+- Developed ML personalization services in **Python/FastAPI**, integrated as reasoning tools in the agent stack
+- Implemented subscription billing, user microservices, and progress tracking across a multi-service architecture
+- Deployed REST & GraphQL APIs on Vercel with GitHub CI/CD
 
 </details>
 
@@ -205,19 +218,98 @@ location    Coimbatore, Tamil Nadu
 
 ## ▹ projects
 
-| Project | Stack | What it does |
-|:--------|:------|:-------------|
-| **Agentic CRM Chatbot** | LangChain · LangGraph · WhatsApp | Live CRM queries, real-time customer support |
-| **Hyre Drogan** | LangChain · OpenAI · FastAPI | Agentic hiring — 4,000+ candidates screened |
-| **MiLai** | Gemini · OpenAI · FastAPI | Adaptive learning for 5,000+ learners |
-| **Sculpx Accounts** | React · Node · PostgreSQL | Multi-tenant CRM, HRMS & PMS (10+ orgs) |
-| **nextjs-auth-kit** | Next.js · TypeScript · npm | OSS auth kit for Next.js apps |
+| # | Project | Domain | Stack |
+|:-:|:--------|:-------|:------|
+| 01 | **MiLai** | EdTech · Agentic AI | React · LangChain · LangGraph · Gemini · FastAPI |
+| 02 | **Hyre Drogan** | Hiring · Agentic AI | LangChain · OpenAI · FastAPI · Microservices |
+| 03 | **Tour Management CRM** | Travel · SaaS | React · Express · PostgreSQL · Meta Business API |
+| 04 | **Sculpx Accounts** | Enterprise SaaS | React · Node.js · PostgreSQL · AWS |
+| 05 | **Agentic CRM Chatbot** | Support · Agentic AI | LangChain · LangGraph · WhatsApp Business API |
+| 06 | **nextjs-auth-kit** | Open Source · npm | Next.js · TypeScript |
 
-<details>
-<summary><b>nextjs-auth-kit — npm package</b></summary>
 <br />
 
-Open-source auth workflows for Next.js — login, registration, session handling. Built to drop into apps without reinventing the wheel.
+<details open>
+<summary><b>MiLai — AI-Powered Learning Platform</b> · SNS Square</summary>
+<br />
+
+Adaptive learning platform that personalizes course content and learning paths using **agentic AI workflows**. Served **5,000+ active learners** with production-grade LLM orchestration.
+
+- Built **agentic workflows** for adaptive content delivery — dynamic paths based on learner progress and performance signals
+- Integrated **Gemini & OpenAI APIs** through LangChain/LangGraph pipelines for content generation and reasoning
+- Shipped **Prep Accelerator** — interview-prep module with AI-driven practice flows and personalized feedback
+- Developed **Python/FastAPI microservices** for ML-powered course personalization, exposed as tool-callable endpoints
+- Implemented **subscription-based payment gateway**, user management microservices, and progress tracking
+- Delivered **REST & GraphQL APIs** with SSR/SSG rendering; deployed on **Vercel with GitHub Actions CI/CD**
+
+</details>
+
+<details>
+<summary><b>Hyre Drogan — Agentic AI Hiring Platform</b> · SNS Square</summary>
+<br />
+
+Agentic AI hiring platform automating candidate screening, resume analysis, and role matching. Processed **4,000+ candidates** through autonomous screening agents.
+
+- Designed **multi-step screening agents** with LangChain — orchestrated decision logic and OpenAI-based reasoning for shortlisting
+- Built agents for **automated resume analysis**, intelligent screening, and **real-time interview assistance**
+- Exposed ML-powered candidate insights via **Python microservices & FastAPI** as tool-callable endpoints for the agent layer
+- Improved shortlisting accuracy and **reduced manual review time** through structured agent workflows
+- Shipped secure **REST & GraphQL APIs** with SSR/SSG; **Vercel deployment with GitHub Actions CI/CD**
+
+</details>
+
+<details>
+<summary><b>Tour Management CRM</b> · SculpXTechLabs</summary>
+<br />
+
+Multi-tenant SaaS CRM for travel agencies — tour creation, itinerary management, booking tracking, and agency operations at scale.
+
+- Built **tour creation, itinerary management & booking tracking** workflows for travel agency clients
+- Architected **tenant-based multi-tenant architecture** with isolated data and role-based access
+- Integrated **Meta Business API** for automated messaging and business workflow automation
+- Deployed an **agentic chatbot for personalized tour plans** — context-aware recommendations for customers
+- Full-stack delivery with **React.js, Express.js & PostgreSQL**; production deployment on **AWS & Hostinger**
+
+</details>
+
+<details>
+<summary><b>Sculpx Accounts — Business Suite</b> · SculpXTechLabs</summary>
+<br />
+
+Internal multi-tenant SaaS covering **CRM, HRMS & PMS** — lead tracking, HR operations, and team collaboration across **10+ tenant organizations**.
+
+- **CRM module** — **10,000+ leads per tenant**, automated lead tracking, pipeline management, and agent-assisted workflows
+- **HRMS module** — employee onboarding, attendance, leave management, and **payroll dashboards** across 10+ tenants
+- **PMS module** — task assignment, project tracking, and team collaboration tooling
+- Designed **backend APIs, database schemas, auth & RBAC** for multi-tenant, agent-integrated architectures
+- End-to-end ownership: infrastructure setup, release management, deployment on **AWS & Hostinger**
+
+</details>
+
+<details>
+<summary><b>Agentic CRM Chatbot</b> · SculpXTechLabs</summary>
+<br />
+
+Production **agentic customer support system** — autonomous LLM agents that query **live CRM databases in real time** and respond via **WhatsApp Business API**.
+
+- Architected agents using **LangChain & LangGraph** with structured tool-calling over live production CRM data
+- Agents **reason over real customer records** — bookings, leads, itineraries — instead of static FAQ responses
+- Integrated **WhatsApp Business API** for customer-facing support at scale
+- Built for **multi-tenant CRM environments** with context isolation per organization
+- Reduced support load through autonomous resolution of common queries with human handoff when needed
+
+</details>
+
+<details>
+<summary><b>nextjs-auth-kit — Open Source npm Package</b></summary>
+<br />
+
+Authored and published an open-source npm package providing **customizable, secure authentication workflows** for Next.js applications.
+
+- Reusable modules for **login, registration, and session management**
+- Built with **Next.js & TypeScript** — typed APIs and composable auth flows
+- Designed for developers who need production-ready auth without rebuilding from scratch
+- Published on **npm** for the Next.js community
 
 </details>
 
@@ -248,33 +340,24 @@ Open-source auth workflows for Next.js — login, registration, session handling
 
 | Degree | Institution | CGPA | Period |
 |:-------|:------------|:----:|:------:|
-| **MCA** | SNS College of Technology, Coimbatore | **7.56** | 2022 – 2024 |
-| **BCA** | Kalasalingam Academy, Virudhunagar | **7.81** | 2019 – 2022 |
+| **MCA** | SNS College of Technology | **7.56** | 2022 – 2024 |
+| **BCA** | Kalasalingam Academy | **7.81** | 2019 – 2022 |
 
 ---
 
 ## ◇ highlights
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-- Agentic CRM chatbot on **live production data** (LangChain & LangGraph)
-- **Hyre Drogan** — 4,000+ candidates through agentic screening
-- **MiLai** — 5,000+ learners on adaptive AI workflows
-- Multi-tenant **CRM, HRMS & PMS** across 10+ organizations
-
-</td>
-<td width="50%" valign="top">
-
-- Published **nextjs-auth-kit** on npm
-- Owned deployments on **AWS, Vercel & Hostinger**
-- MCA, SNS College of Technology
-- Open to **relocation worldwide**
-
-</td>
-</tr>
-</table>
+| Area | Details |
+|:-----|:--------|
+| **Agentic AI** | LangChain & LangGraph agents on live production data · multi-agent orchestration · RAG · tool-calling workflows |
+| **Hyre Drogan** | Agentic hiring platform — **4,000+ candidates** through automated screening, resume analysis & interview assistance |
+| **MiLai** | AI learning platform — **5,000+ active learners** with adaptive agent workflows & Prep Accelerator module |
+| **Sculpx Accounts** | Multi-tenant CRM, HRMS & PMS across **10+ organizations** · **10,000+ leads/tenant** |
+| **Tour Management CRM** | Travel agency SaaS with Meta Business API integration & personalized tour-plan chatbot |
+| **Agentic CRM Chatbot** | WhatsApp-integrated support agents querying live CRM databases in real time |
+| **Open Source** | Published **nextjs-auth-kit** on npm — auth workflows for Next.js |
+| **Deployment** | End-to-end ownership on **AWS, Vercel & Hostinger** with CI/CD automation |
+| **Availability** | Open to full-time roles · **relocation worldwide** |
 
 ---
 
@@ -285,9 +368,10 @@ Open-source auth workflows for Next.js — login, registration, session handling
 | **Editor** | VS Code · Cursor |
 | **Runtime** | Node.js · Python |
 | **Containers** | Docker |
-| **APIs** | Postman · REST · GraphQL |
-| **VCS / CI** | Git · GitHub · GitHub Actions |
+| **API Testing** | Postman · REST · GraphQL |
+| **Version Control** | Git · GitHub · GitHub Actions |
 | **Cloud** | AWS · Vercel · Hostinger |
+| **Domains** | SaaS · CRM · HRMS · Agentic AI · EdTech · Hiring |
 
 ---
 
