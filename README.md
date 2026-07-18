@@ -4,14 +4,20 @@
 -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,40:1E1B4B,100:4338CA&height=220&section=header&text=Vigneshwaran%20A&fontSize=48&fontColor=E6EDF3&fontAlignY=36&desc=Agentic%20AI%20Solutions%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descAlignY=58&descSize=15&descAlignX=50&animation=scaleIn" alt="Header" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Vigneshwaran+A;Agentic+AI+Solutions+Engineer;Full+Stack+Developer;Building+autonomous+LLM+agents;LangChain+%C2%B7+LangGraph+%C2%B7+RAG;Open+to+relocation+worldwide" alt="Typing SVG" />
+</div>
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=818CF8&center=true&vCenter=true&width=780&lines=Autonomous+LLM+agents+on+live+production+data;Multi-agent+orchestration+%C2%B7+RAG+%C2%B7+tool-calling;LangChain+%C2%B7+LangGraph+%C2%B7+OpenAI+%C2%B7+Gemini;Full-stack+SaaS+%C2%B7+CRM+%C2%B7+HRMS+%C2%B7+EdTech;Open+to+relocation+worldwide" alt="Typing intro" />
+<div align="center">
+  <a href="https://github.com/vigneshwaran7890">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E1B4B,100:6366F1&height=200&section=header&text=Vigneshwaran%20A&fontSize=42&fontColor=E6EDF3&fontAlignY=35&desc=Agentic%20AI%20Solutions%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=16&animation=fadeIn" alt="Header Banner" />
+  </a>
+</div>
 
-<br /><br />
+<div align="center">
+
+<br />
 
 [![Portfolio](https://img.shields.io/badge/portfolio-visit-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B4B)](https://portfolio-vignesh-xi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B4B)](https://www.linkedin.com/in/vigneshwaran-andisamy/)
@@ -30,11 +36,8 @@
 &nbsp;
 <img src="https://img.shields.io/badge/MCA-2563EB?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=1E1B4B" alt="Education" />
 
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E1B4B,100:4338CA&height=80&section=footer&animation=twinkling" alt="" width="100%" />
-
 </div>
+
 ---
 
 ## ▸ about
@@ -403,7 +406,9 @@ If something here helped — star a repo, follow along, or reach out about agent
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E1B4B,100:4338CA&height=100&section=footer&text=good%20code%20and%20good%20agents&fontSize=18&fontColor=E6EDF3&animation=fadeIn" alt="" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E1B4B,100:6366F1&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=E6EDF3&animation=fadeIn" alt="Footer Banner" width="100%" />
+</div>
 
 <br />
 
