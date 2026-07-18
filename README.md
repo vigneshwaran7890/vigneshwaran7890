@@ -5,36 +5,34 @@
 
 <div align="center">
 
-<br />
-
-## Vigneshwaran A
-
-**Agentic AI Solutions Engineer · Full Stack Developer**
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,40:1E1B4B,100:4338CA&height=220&section=header&text=Vigneshwaran%20A&fontSize=48&fontColor=E6EDF3&fontAlignY=36&desc=Agentic%20AI%20Solutions%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descAlignY=58&descSize=15&descAlignX=50&animation=scaleIn" alt="Header" width="100%" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=14&duration=4000&pause=1500&color=656D76&center=true&vCenter=true&width=620&lines=Autonomous+LLM+agents+on+live+production+data;Multi-agent+orchestration+%C2%B7+RAG+%C2%B7+tool-calling;Open+to+relocation+worldwide" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=818CF8&center=true&vCenter=true&width=780&lines=Autonomous+LLM+agents+on+live+production+data;Multi-agent+orchestration+%C2%B7+RAG+%C2%B7+tool-calling;LangChain+%C2%B7+LangGraph+%C2%B7+OpenAI+%C2%B7+Gemini;Full-stack+SaaS+%C2%B7+CRM+%C2%B7+HRMS+%C2%B7+EdTech;Open+to+relocation+worldwide" alt="Typing intro" />
 
 <br /><br />
 
-[![Portfolio](https://img.shields.io/badge/portfolio-portfolio--vignesh--xi.vercel.app-30363D?style=flat-square&logo=vercel&logoColor=E6EDF3)](https://portfolio-vignesh-xi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-vigneshwaran--andisamy-30363D?style=flat-square&logo=linkedin&logoColor=E6EDF3)](https://www.linkedin.com/in/vigneshwaran-andisamy/)
-[![Email](https://img.shields.io/badge/email-vigneshwaran7890%40gmail.com-30363D?style=flat-square&logo=gmail&logoColor=E6EDF3)](mailto:vigneshwaran7890@gmail.com)
-[![Phone](https://img.shields.io/badge/phone-%2B91%2082705%2016312-30363D?style=flat-square&logo=whatsapp&logoColor=E6EDF3)](tel:+918270516312)
+[![Portfolio](https://img.shields.io/badge/portfolio-visit-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B4B)](https://portfolio-vignesh-xi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B4B)](https://www.linkedin.com/in/vigneshwaran-andisamy/)
+[![Email](https://img.shields.io/badge/email-vigneshwaran7890%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B4B)](mailto:vigneshwaran7890@gmail.com)
+[![Phone](https://img.shields.io/badge/phone-%2B91%2082705%2016312-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1E1B4B)](tel:+918270516312)
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=vigneshwaran7890&label=views&color=30363D&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=vigneshwaran7890&label=views&color=6366F1&style=for-the-badge&labelColor=1E1B4B" alt="Profile views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/vigneshwaran7890?style=flat-square&label=followers&color=30363D&logo=github" alt="Followers" />
+<img src="https://img.shields.io/github/followers/vigneshwaran7890?style=for-the-badge&label=followers&color=4338CA&labelColor=1E1B4B&logo=github&logoColor=white" alt="Followers" />
 &nbsp;
-<img src="https://img.shields.io/badge/Agentic%20AI-30363D?style=flat-square&logo=langchain&logoColor=E6EDF3" alt="Focus" />
+<img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge&logo=langchain&logoColor=white&labelColor=1E1B4B" alt="Focus" />
 &nbsp;
-<img src="https://img.shields.io/badge/2%2B%20yrs-30363D?style=flat-square&logo=clockify&logoColor=E6EDF3" alt="Experience" />
+<img src="https://img.shields.io/badge/2%2B%20yrs%20exp-059669?style=for-the-badge&logo=clockify&logoColor=white&labelColor=1E1B4B" alt="Experience" />
 &nbsp;
-<img src="https://img.shields.io/badge/MCA-30363D?style=flat-square&logo=google-scholar&logoColor=E6EDF3" alt="Education" />
+<img src="https://img.shields.io/badge/MCA-2563EB?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=1E1B4B" alt="Education" />
 
 <br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E1B4B,100:4338CA&height=80&section=footer&animation=twinkling" alt="" width="100%" />
 
 </div>
 ---
