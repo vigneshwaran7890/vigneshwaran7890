@@ -5,33 +5,38 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&theme=gradient&text=Vigneshwaran%20A&fontSize=50&fontColor=E6EDF3&stroke=F97316&desc=Agentic%20AI%20Solutions%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=56&descSize=16&animation=fadeIn&color=0:0D1117,50:1F2937,100:7C2D12,100:F97316" alt="Header" />
+<br />
+
+## Vigneshwaran A
+
+**Agentic AI Solutions Engineer · Full Stack Developer**
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=800&color=F97316&center=true&vCenter=true&width=820&lines=Autonomous+LLM+agents+on+live+production+data;Multi-agent+orchestration+%C2%B7+tool-calling+%C2%B7+RAG;LangChain+%C2%B7+LangGraph+%C2%B7+OpenAI+%C2%B7+Gemini;Full-stack+delivery+for+CRM%2C+HRMS+%26+EdTech;Open+to+relocation+worldwide" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=14&duration=4000&pause=1500&color=656D76&center=true&vCenter=true&width=620&lines=Autonomous+LLM+agents+on+live+production+data;Multi-agent+orchestration+%C2%B7+RAG+%C2%B7+tool-calling;Open+to+relocation+worldwide" alt="" />
 
 <br /><br />
 
-[![Portfolio](https://img.shields.io/badge/portfolio-visit-F97316?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://portfolio-vignesh-xi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/vigneshwaran-andisamy/)
-[![Email](https://img.shields.io/badge/email-vigneshwaran7890%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:vigneshwaran7890@gmail.com)
-[![Phone](https://img.shields.io/badge/phone-%2B91%2082705%2016312-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117)](tel:+918270516312)
+[![Portfolio](https://img.shields.io/badge/portfolio-portfolio--vignesh--xi.vercel.app-30363D?style=flat-square&logo=vercel&logoColor=E6EDF3)](https://portfolio-vignesh-xi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-vigneshwaran--andisamy-30363D?style=flat-square&logo=linkedin&logoColor=E6EDF3)](https://www.linkedin.com/in/vigneshwaran-andisamy/)
+[![Email](https://img.shields.io/badge/email-vigneshwaran7890%40gmail.com-30363D?style=flat-square&logo=gmail&logoColor=E6EDF3)](mailto:vigneshwaran7890@gmail.com)
+[![Phone](https://img.shields.io/badge/phone-%2B91%2082705%2016312-30363D?style=flat-square&logo=whatsapp&logoColor=E6EDF3)](tel:+918270516312)
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=vigneshwaran7890&label=views&color=F97316&style=flat-square&labelColor=161B22" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=vigneshwaran7890&label=views&color=30363D&style=flat-square" alt="Profile views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/vigneshwaran7890?style=flat-square&label=followers&color=238636&labelColor=161B22&logo=github" alt="Followers" />
+<img src="https://img.shields.io/github/followers/vigneshwaran7890?style=flat-square&label=followers&color=30363D&logo=github" alt="Followers" />
 &nbsp;
-<img src="https://img.shields.io/badge/Agentic%20AI-161B22?style=flat-square&logo=langchain&logoColor=F97316" alt="Focus" />
+<img src="https://img.shields.io/badge/Agentic%20AI-30363D?style=flat-square&logo=langchain&logoColor=E6EDF3" alt="Focus" />
 &nbsp;
-<img src="https://img.shields.io/badge/2%2B%20yrs%20exp-161B22?style=flat-square&logo=clockify&logoColor=3FB950" alt="Experience" />
+<img src="https://img.shields.io/badge/2%2B%20yrs-30363D?style=flat-square&logo=clockify&logoColor=E6EDF3" alt="Experience" />
 &nbsp;
-<img src="https://img.shields.io/badge/MCA-161B22?style=flat-square&logo=google-scholar&logoColor=58A6FF" alt="Education" />
+<img src="https://img.shields.io/badge/MCA-30363D?style=flat-square&logo=google-scholar&logoColor=E6EDF3" alt="Education" />
+
+<br /><br />
 
 </div>
-
 ---
 
 ## ▸ about
