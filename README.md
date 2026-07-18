@@ -6,6 +6,9 @@
 ╚══════════════════════════════════════════════════════════════════╝
 -->
 
+<div align="center">
+  <img src="./profile.png" width="150" height="150" style="border-radius:50%;" alt="Vigneshwaran A" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Vigneshwaran+A+%F0%9F%91%8B;Full+Stack+Developer;Agentic+AI+Solutions+Engineer;Building+Autonomous+LLM+Agents;Open+to+Relocation+Worldwide" alt="Typing SVG" />
@@ -69,7 +72,6 @@ Skilled in **React.js & Node.js** for production-grade full-stack apps, with han
 | | |
 |:---|:---|
 | 🎓 **Education** | MCA, SNS College of Technology |
-| 📍 **Location** | Coimbatore, Tamil Nadu, India |
 | 📞 **Phone** | +91 82705 16312 |
 | 🌐 **Portfolio** | [portfolio-vignesh-xi.vercel.app](https://portfolio-vignesh-xi.vercel.app/) |
 | 🔗 **LinkedIn** | [vigneshwaran-andisamy](https://www.linkedin.com/in/vigneshwaran-andisamy/) |
@@ -260,8 +262,8 @@ Authored and published an open-source package providing customizable, secure aut
 <br />
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vigneshwaran7890&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshwaran7890&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=vigneshwaran7890&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vigneshwaran7890&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </div>
 
 <br />
