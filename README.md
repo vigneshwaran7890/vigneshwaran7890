@@ -1,78 +1,64 @@
 <!--
-╔══════════════════════════════════════════════════════════════════╗
-║  Vigneshwaran A — GitHub Profile README                          ║
-║  Full Stack Developer | Agentic AI Solutions Engineer            ║
-║  Optimized for recruiters, ATS, and dark-theme GitHub UI         ║
-╚══════════════════════════════════════════════════════════════════╝
+  Vigneshwaran A — GitHub Profile README
+  Full Stack Developer · Agentic AI Solutions Engineer
 -->
 
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Vigneshwaran+A+%F0%9F%91%8B;Full+Stack+Developer;Agentic+AI+Solutions+Engineer;Building+Autonomous+LLM+Agents;Open+to+Relocation+Worldwide" alt="Typing SVG" />
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=220&section=header&text=Vigneshwaran%20A&fontSize=48&fontColor=E6EDF3&desc=Full%20Stack%20Developer%20%C2%B7%20Agentic%20AI%20Solutions%20Engineer&descAlignY=62&descSize=15&animation=twinkling&color=0:0D1117,100:1F2937,200:F97316" alt="Header" />
 
 <br />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=200&section=header&text=Vigneshwaran%20A&fontSize=42&fontColor=E6EDF3&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Agentic%20AI%20Solutions%20Engineer&descAlignY=55&descSize=16&animation=fadeIn" alt="Header Banner" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=780&lines=Building+agents+that+query+live+data;Shipping+multi-tenant+SaaS+%26+CRM+platforms;LangChain+%C2%B7+LangGraph+%C2%B7+React+%C2%B7+Node;Open+to+relocation+%E2%80%94+worldwide" alt="Typing intro" />
 
-<div align="center">
+<br /><br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-vignesh-xi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshwaran-andisamy/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshwaran7890@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918270516312)
+[![Portfolio](https://img.shields.io/badge/portfolio-visit-F97316?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://portfolio-vignesh-xi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/vigneshwaran-andisamy/)
+[![Email](https://img.shields.io/badge/email-vigneshwaran7890%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:vigneshwaran7890@gmail.com)
+[![Phone](https://img.shields.io/badge/phone-%2B91%2082705%2016312-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117)](tel:+918270516312)
 
-</div>
+<br /><br />
 
-<br />
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=vigneshwaran7890&label=Profile%20Views&color=58A6FF&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/vigneshwaran7890?label=Followers&style=for-the-badge&color=238636&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/vigneshwaran7890?affiliations=OWNER&style=for-the-badge&color=F78166&logo=github)
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Location-Coimbatore%2C%20Tamil%20Nadu%2C%20India-0D1117?style=flat-square&logo=googlemaps&logoColor=58A6FF&labelColor=161B22" alt="Location" />
-<img src="https://img.shields.io/badge/Experience-2%2B%20Years-0D1117?style=flat-square&logo=clockify&logoColor=3FB950&labelColor=161B22" alt="Experience" />
-<img src="https://img.shields.io/badge/Education-MCA-0D1117?style=flat-square&logo=google-scholar&logoColor=58A6FF&labelColor=161B22" alt="Education" />
-<img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%C2%B7%20Full%20Stack-0D1117?style=flat-square&logo=langchain&logoColor=1C3C3C&labelColor=161B22" alt="Focus" />
+<img src="https://komarev.com/ghpvc/?username=vigneshwaran7890&label=views&color=F97316&style=flat-square&labelColor=161B22" alt="Profile views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/vigneshwaran7890?style=flat-square&label=followers&color=238636&labelColor=161B22&logo=github" alt="Followers" />
+&nbsp;
+<img src="https://img.shields.io/badge/Coimbatore%2C%20India-161B22?style=flat-square&logo=googlemaps&logoColor=F97316" alt="Location" />
+&nbsp;
+<img src="https://img.shields.io/badge/2%2B%20yrs%20exp-161B22?style=flat-square&logo=clockify&logoColor=3FB950" alt="Experience" />
+&nbsp;
+<img src="https://img.shields.io/badge/MCA-161B22?style=flat-square&logo=google-scholar&logoColor=58A6FF" alt="Education" />
 
 </div>
 
 ---
 
-## <div align="center">👨‍💻 About Me</div>
+## ▸ about
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="62%" valign="top">
 
-Full Stack Developer with **2+ years** of experience delivering scalable SaaS platforms, CRM systems, and agentic AI-driven web applications for enterprise clients.
+Full Stack Developer with **2+ years** shipping SaaS, CRM, and agentic AI products for enterprise teams.
 
-Proven track record designing **autonomous LLM agents** using LangChain & LangGraph that query live production databases in real time — reasoning over data and generating context-aware responses across CRM, HRMS, hiring & EdTech platforms.
+I design **autonomous LLM agents** with LangChain & LangGraph that pull from live production databases — reasoning over real CRM, HRMS, hiring, and EdTech data instead of static prompts.
 
-Skilled in **React.js & Node.js** for production-grade full-stack apps, with hands-on expertise in multi-agent orchestration, tool-calling workflows, and RAG-based systems using OpenAI & Gemini.
+Day-to-day: **React & Node** for product surfaces, multi-agent orchestration, tool-calling flows, and RAG pipelines on OpenAI & Gemini.
 
-**Interests:** Agentic AI Systems · Multi-Agent Orchestration · RAG Pipelines · LLM Orchestration · SaaS Products · Open Source
+**Currently into:** agent systems · multi-agent routing · RAG eval · multi-tenant architecture · open source tooling
 
 </td>
-<td width="40%" valign="top">
+<td width="38%" valign="top">
 
-| | |
-|:---|:---|
-| 🎓 **Education** | MCA, SNS College of Technology |
-| 📞 **Phone** | +91 82705 16312 |
-| 🌐 **Portfolio** | [portfolio-vignesh-xi.vercel.app](https://portfolio-vignesh-xi.vercel.app/) |
-| 🔗 **LinkedIn** | [vigneshwaran-andisamy](https://www.linkedin.com/in/vigneshwaran-andisamy/) |
-| ✉️ **Email** | [vigneshwaran7890@gmail.com](mailto:vigneshwaran7890@gmail.com) |
+```
+education   MCA · SNS College of Technology
+phone       +91 82705 16312
+portfolio   portfolio-vignesh-xi.vercel.app
+linkedin    vigneshwaran-andisamy
+email       vigneshwaran7890@gmail.com
+location    Coimbatore, Tamil Nadu
+```
 
 </td>
 </tr>
@@ -80,112 +66,99 @@ Skilled in **React.js & Node.js** for production-grade full-stack apps, with han
 
 ---
 
-## <div align="center">🎯 Current Focus</div>
+## ◈ now
 
-<div align="center">
-
-| Area | What I'm working on |
-|:----:|:--------------------|
-| 🤖 **Agentic AI** | Autonomous LLM agents with LangChain & LangGraph, real-time reasoning over live production data |
-| 🔌 **Tool-Calling** | Multi-agent orchestration, function-calling workflows, RAG pipelines |
-| ⚡ **Backend Systems** | Node.js, Express.js, Python, FastAPI, REST & GraphQL APIs |
-| ☁️ **Cloud & DevOps** | AWS, Vercel, Hostinger, Docker, GitHub Actions CI/CD |
-| 🚀 **Product Building** | Multi-tenant SaaS, CRM, HRMS, PMS & WhatsApp-integrated agentic platforms |
-
-</div>
+<table align="center">
+<tr>
+<td align="center"><b>Agentic AI</b><br/>LangChain · LangGraph · live DB reasoning</td>
+<td align="center"><b>Tool-calling</b><br/>Multi-agent flows · RAG · function APIs</td>
+<td align="center"><b>Backend</b><br/>Node · Express · Python · FastAPI</td>
+</tr>
+<tr>
+<td align="center"><b>Cloud</b><br/>AWS · Vercel · Docker · GitHub Actions</td>
+<td align="center"><b>Products</b><br/>CRM · HRMS · PMS · WhatsApp agents</td>
+<td align="center"><b>2026 goals</b><br/>Scale orchestration · OSS · system design</td>
+</tr>
+</table>
 
 <details>
-<summary><b>📌 Goals for 2026</b></summary>
+<summary><b>2026 — what I'm pushing toward</b></summary>
 <br />
 
-- Ship production-grade multi-agent orchestration systems at scale
-- Deepen expertise in LangGraph, RAG, and evaluation of LLM agents
-- Contribute to open-source AI tooling and developer packages
-- Grow international full-stack + applied agentic AI experience
-- Strengthen system design skills for multi-tenant architectures
+- Production-grade multi-agent orchestration at scale
+- Deeper LangGraph, RAG, and agent evaluation work
+- Open-source contributions in AI dev tooling
+- International full-stack + applied agentic AI experience
+- Stronger multi-tenant system design
 
 </details>
 
 ---
 
-## <div align="center">🛠️ Tech Stack</div>
+## ⌬ stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**AI & automation**
 
 <br />
 
-### AI & Automation
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=161B22)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=161B22)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white&labelColor=161B22)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white&labelColor=161B22)
+![RAG](https://img.shields.io/badge/RAG-6366F1?style=flat-square&logo=chainlink&logoColor=white&labelColor=161B22)
 
-<div align="center">
+<br /><br />
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=chainlink&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6366F1?style=for-the-badge&logo=octopusdeploy&logoColor=white)
+**Frontend**
 
-</div>
+<br />
 
-### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=161B22)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=161B22)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=161B22)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=161B22)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white&labelColor=161B22)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white&labelColor=161B22)
 
-<div align="center">
+</td>
+<td valign="top" width="50%">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
+**Backend & data**
 
-</div>
+<br />
 
-### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=161B22)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white&labelColor=161B22)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=161B22)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=161B22)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white&labelColor=161B22)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=161B22)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=161B22)
 
-<div align="center">
+<br /><br />
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Ops & integrations**
 
-</div>
+<br />
 
-### Databases & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white&labelColor=161B22)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=161B22)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=161B22)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=161B22)
+![WhatsApp](https://img.shields.io/badge/WhatsApp%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=161B22)
+![Meta](https://img.shields.io/badge/Meta%20API-0081FB?style=flat-square&logo=meta&logoColor=white&labelColor=161B22)
 
-<div align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</div>
-
-### Integrations & Tools
-
-<div align="center">
-
-![WhatsApp API](https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Meta API](https://img.shields.io/badge/Meta%20Business%20API-0081FB?style=for-the-badge&logo=meta&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## <div align="center">💼 Work Experience</div>
-
-<br />
+## ◉ experience
 
 | Company | Role | Period | Location |
 |:--------|:-----|:------:|:---------|
@@ -194,153 +167,129 @@ Skilled in **React.js & Node.js** for production-grade full-stack apps, with han
 | **SNS Square** | Junior Software Associate | Aug 2024 – Sep 2025 | Coimbatore |
 
 <details>
-<summary><b>🏢 SculpXTechLabs — Software Associate</b></summary>
+<summary><b>SculpXTechLabs — Software Associate</b></summary>
 <br />
 
-- Developing the **Tour Management CRM Platform** for travel agencies — tour creation, itinerary management & booking tracking
-- Designed and deployed an **agentic customer support chatbot** using LangChain & LangGraph that autonomously queries the live CRM database in real time and responds via **WhatsApp Business API**
-- Delivering the **CRM module** within Sculpx Accounts — supporting 10+ tenant organizations and 10,000+ leads per tenant through automated tracking and agent-assisted workflows
-- Building the **HRMS module** — onboarding, attendance & leave workflows across 10+ tenants — alongside a **PMS module** for task assignment and collaboration
-- Owning end-to-end deployment across **AWS & Hostinger**, including infrastructure setup and release management
-- Designing backend APIs, database schemas, auth & RBAC for multi-tenant, agent-integrated architectures
+- **Tour Management CRM** — tour creation, itineraries, booking tracking for travel agencies
+- **Agentic support chatbot** — LangChain & LangGraph agent querying live CRM data via WhatsApp Business API
+- **Sculpx Accounts CRM** — 10+ tenants, 10,000+ leads/tenant, automated tracking & agent workflows
+- **HRMS & PMS modules** — onboarding, attendance, leave, task assignment across 10+ tenants
+- End-to-end deployment on **AWS & Hostinger** — infra, releases, RBAC for multi-tenant agent systems
 
 </details>
 
 <details>
-<summary><b>🏢 SNS Square — Software Associate (Promoted)</b></summary>
+<summary><b>SNS Square — Software Associate (Promoted)</b></summary>
 <br />
 
-- Promoted from Junior Software Associate for contributions to agentic AI product development
-- Delivered **Hyre Drogan**, an agentic AI hiring platform with autonomous screening agents supporting **4,000+ candidates** through automated screening, resume analysis & role matching
-- Built multi-step screening agents with LangChain, orchestrating decision logic and OpenAI-based reasoning to improve shortlisting accuracy and cut manual review time
-- Exposed ML-powered candidate insights through **Python microservices & FastAPI** as tool-callable endpoints for the agent layer
-- Built secure REST & GraphQL APIs with SSR/SSG rendering; set up **Vercel deployment with GitHub Actions CI/CD**
+- Promoted for agentic AI product delivery
+- **Hyre Drogan** — agentic hiring platform, 4,000+ candidates through automated screening & role matching
+- Multi-step screening agents with LangChain + OpenAI reasoning; reduced manual review time
+- **Python / FastAPI** microservices exposing ML insights as tool-callable agent endpoints
+- REST & GraphQL APIs, SSR/SSG, Vercel + GitHub Actions CI/CD
 
 </details>
 
 <details>
-<summary><b>🏢 SNS Square — Junior Software Associate</b></summary>
+<summary><b>SNS Square — Junior Software Associate</b></summary>
 <br />
 
-- Built **MiLai**, an AI-powered personalized learning platform serving **5,000+ active learners**, using agentic workflows for adaptive content delivery
-- Integrated **Gemini & OpenAI APIs** via LLM orchestration pipelines to generate dynamic learning paths and a Prep Accelerator module for interview prep
-- Developed ML-powered course personalization through Python services & FastAPI
-- Built secure REST & GraphQL APIs with SSR/SSG rendering, deployed on Vercel with GitHub CI/CD
-- Implemented a subscription-based payment gateway and microservices for user management & progress tracking
+- **MiLai** — AI learning platform for 5,000+ active learners with adaptive agent workflows
+- Gemini & OpenAI orchestration for dynamic paths and interview prep (Prep Accelerator)
+- Subscription payments, user microservices, progress tracking
+- REST & GraphQL APIs deployed on Vercel with GitHub CI/CD
 
 </details>
 
 ---
 
-## <div align="center">🚀 Featured Projects</div>
+## ▹ projects
 
-<br />
-
-| Project | Stack | Highlights |
-|:--------|:------|:-----------|
-| **Agentic CRM Chatbot** | LangChain · LangGraph · WhatsApp API | Autonomous support agent querying live CRM data in real time |
-| **Hyre Drogan** | LangChain · OpenAI · FastAPI | Agentic hiring platform — screening for 4,000+ candidates |
-| **MiLai** | Gemini · OpenAI · FastAPI | Adaptive learning platform for 5,000+ active learners |
-| **Sculpx Accounts** | React · Node.js · PostgreSQL | Multi-tenant CRM, HRMS & PMS across 10+ organizations |
-| **nextjs-auth-kit** | Next.js · TypeScript · npm | Open-source authentication package for Next.js apps |
+| Project | Stack | What it does |
+|:--------|:------|:-------------|
+| **Agentic CRM Chatbot** | LangChain · LangGraph · WhatsApp | Live CRM queries, real-time customer support |
+| **Hyre Drogan** | LangChain · OpenAI · FastAPI | Agentic hiring — 4,000+ candidates screened |
+| **MiLai** | Gemini · OpenAI · FastAPI | Adaptive learning for 5,000+ learners |
+| **Sculpx Accounts** | React · Node · PostgreSQL | Multi-tenant CRM, HRMS & PMS (10+ orgs) |
+| **nextjs-auth-kit** | Next.js · TypeScript · npm | OSS auth kit for Next.js apps |
 
 <details>
-<summary><b>📦 nextjs-auth-kit — Open Source npm Package</b></summary>
+<summary><b>nextjs-auth-kit — npm package</b></summary>
 <br />
 
-Authored and published an open-source package providing customizable, secure authentication workflows — login, registration, and session management — for Next.js applications.
+Open-source auth workflows for Next.js — login, registration, session handling. Built to drop into apps without reinventing the wheel.
 
 </details>
 
 ---
 
-## <div align="center">📊 GitHub Analytics</div>
-
-<br />
+## ◎ activity
 
 <div align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=vigneshwaran7890&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vigneshwaran7890&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=vigneshwaran7890&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=C9D1D9&ring_color=F97316&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vigneshwaran7890&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=C9D1D9&langs_count=8" alt="Top languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshwaran7890&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshwaran7890&theme=dark&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316" alt="Contribution streak" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshwaran7890&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F78166&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vigneshwaran7890&theme=darkhub&no-frame=true&no-bg=false&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshwaran7890&bg_color=0D1117&color=F97316&line=F97316&point=E6EDF3&area=true&hide_border=true&custom_title=Contribution%20activity" alt="Contribution graph" width="100%" />
 </div>
 
 ---
 
-## <div align="center">🎓 Education</div>
-
-<br />
-
-<div align="center">
+## ◆ education
 
 | Degree | Institution | CGPA | Period |
 |:-------|:------------|:----:|:------:|
-| **Master of Computer Applications (MCA)** | SNS College of Technology, Coimbatore | **7.56** | 2022 – 2024 |
-| **Bachelor of Computer Applications (BCA)** | Kalasalingam Academy, Virudhunagar | **7.81** | 2019 – 2022 |
-
-</div>
+| **MCA** | SNS College of Technology, Coimbatore | **7.56** | 2022 – 2024 |
+| **BCA** | Kalasalingam Academy, Virudhunagar | **7.81** | 2019 – 2022 |
 
 ---
 
-## <div align="center">🏆 Achievements</div>
+## ◇ highlights
 
-<br />
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+- Agentic CRM chatbot on **live production data** (LangChain & LangGraph)
+- **Hyre Drogan** — 4,000+ candidates through agentic screening
+- **MiLai** — 5,000+ learners on adaptive AI workflows
+- Multi-tenant **CRM, HRMS & PMS** across 10+ organizations
 
-| Badge | Achievement |
-|:-----:|:------------|
-| 🤖 | Designed an **agentic CRM chatbot** using LangChain & LangGraph on live production data |
-| 🎯 | Delivered **Hyre Drogan** — agentic AI hiring platform for 4,000+ candidates |
-| 📚 | Shipped **MiLai** — AI-powered learning platform for 5,000+ active learners |
-| 🏢 | Built multi-tenant **CRM, HRMS & PMS modules** across 10+ organizations |
-| 📦 | Published **nextjs-auth-kit** — open-source npm authentication package |
-| ☁️ | Owned end-to-end deployment across **AWS, Vercel & Hostinger** |
-| 🎓 | **MCA** graduate from SNS College of Technology |
+</td>
+<td width="50%" valign="top">
 
-</div>
+- Published **nextjs-auth-kit** on npm
+- Owned deployments on **AWS, Vercel & Hostinger**
+- MCA, SNS College of Technology
+- Open to **relocation worldwide**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## <div align="center">🖥️ Development Environment</div>
+## ⊞ setup
 
-<br />
-
-<div align="center">
-
-| Tool | Preference |
-|:-----|:-----------|
+| | |
+|:--|:--|
 | **Editor** | VS Code · Cursor |
 | **Runtime** | Node.js · Python |
 | **Containers** | Docker |
-| **API Testing** | Postman |
-| **Version Control** | Git · GitHub · GitHub Actions |
+| **APIs** | Postman · REST · GraphQL |
+| **VCS / CI** | Git · GitHub · GitHub Actions |
 | **Cloud** | AWS · Vercel · Hostinger |
-| **Domains** | SaaS · CRM · HRMS · Agentic AI · EdTech |
-
-</div>
 
 ---
-
-## <div align="center">💡 Quote</div>
-
-<br />
 
 <div align="center">
 
@@ -352,55 +301,27 @@ Authored and published an open-source package providing customizable, secure aut
 
 ---
 
-## <div align="center">🌐 Connect With Me</div>
-
-<br />
+## ↗ connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-vignesh-xi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshwaran-andisamy/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vigneshwaran7890)
-[![Email](https://img.shields.io/badge/Email-vigneshwaran7890%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshwaran7890@gmail.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-portfolio--vignesh--xi.vercel.app-F97316?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://portfolio-vignesh-xi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-vigneshwaran--andisamy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/vigneshwaran-andisamy/)
+[![GitHub](https://img.shields.io/badge/github-vigneshwaran7890-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/vigneshwaran7890)
+[![Email](https://img.shields.io/badge/email-vigneshwaran7890%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:vigneshwaran7890@gmail.com)
 
-</div>
+<br /><br />
 
-<br />
+If something here helped — star a repo, follow along, or reach out about agentic AI or full-stack work.
 
-<div align="center">
+<br /><br />
 
-| Platform | Link |
-|:--------:|:-----|
-| 🌐 Portfolio | [portfolio-vignesh-xi.vercel.app](https://portfolio-vignesh-xi.vercel.app/) |
-| 💼 LinkedIn | [linkedin.com/in/vigneshwaran-andisamy](https://www.linkedin.com/in/vigneshwaran-andisamy/) |
-| ✉️ Email | [vigneshwaran7890@gmail.com](mailto:vigneshwaran7890@gmail.com) |
-| 📞 Phone | [+91 82705 16312](tel:+918270516312) |
-
-</div>
-
----
-
-## <div align="center">☕ Support</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F2937,100:F97316&height=100&section=footer&text=good%20code%20%26%20good%20agents.&fontSize=18&fontColor=E6EDF3&animation=fadeIn" alt="Footer" width="100%" />
 
 <br />
-
-<div align="center">
-
-If my work, projects, or profile README help you — feel free to ⭐ star repos, follow on GitHub, or reach out to collaborate on agentic AI or full-stack projects.
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=E6EDF3&animation=fadeIn" alt="Footer Banner" width="100%" />
-
-</div>
-
-<br />
-
-<div align="center">
 
 **Vigneshwaran A** · Full Stack Developer · Agentic AI Solutions Engineer
-📍 Coimbatore, Tamil Nadu, India · 2+ Years Experience · MCA
 
-<em>Building autonomous agents. Shipping full-stack products. Open to relocation worldwide.</em>
+*Building autonomous agents. Shipping full-stack products.*
 
 </div>
